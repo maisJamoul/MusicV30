@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MusicV30/static/css/main.33aae1c5.css",
+    "main.js": "/MusicV30/static/js/main.fbfc1f76.js",
+    "static/js/453.64512fd7.chunk.js": "/MusicV30/static/js/453.64512fd7.chunk.js",
+    "static/media/about-us-page-heading.jpg": "/MusicV30/static/media/about-us-page-heading.87a4aaa41360e7d55b4c.jpg",
+    "static/media/team-member-01.jpg": "/MusicV30/static/media/team-member-01.254b1f2fd95f13194136.jpg",
+    "static/media/team-member-02.jpg": "/MusicV30/static/media/team-member-02.52950ccb1abd7da85f9c.jpg",
+    "static/media/banner2.jpg": "/MusicV30/static/media/banner2.77480df777fee59bb958.jpg",
+    "static/media/album2.jpg": "/MusicV30/static/media/album2.5065bc13b3849779a63d.jpg",
+    "static/media/musicbg.jpg": "/MusicV30/static/media/musicbg.1ac3c2872fcdd4f07816.jpg",
+    "static/media/team-member-03.jpg": "/MusicV30/static/media/team-member-03.b1281927e3b8c0f40d12.jpg",
+    "static/media/album1.jpg": "/MusicV30/static/media/album1.55067fd014a60b77a039.jpg",
+    "static/media/2.jpg": "/MusicV30/static/media/2.5318b1bc32e1eabbb303.jpg",
+    "static/media/3.jpg": "/MusicV30/static/media/3.1596d46b312e157609ba.jpg",
+    "static/media/1.jpg": "/MusicV30/static/media/1.70d2bfc40157257b27d3.jpg",
+    "index.html": "/MusicV30/index.html",
+    "main.33aae1c5.css.map": "/MusicV30/static/css/main.33aae1c5.css.map",
+    "main.fbfc1f76.js.map": "/MusicV30/static/js/main.fbfc1f76.js.map",
+    "453.64512fd7.chunk.js.map": "/MusicV30/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33aae1c5.css",
+    "static/js/main.fbfc1f76.js"
+  ]
+}
