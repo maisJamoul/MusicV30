@@ -1,0 +1,15 @@
+.HImg{
+    width:100%;
+    height:auto;
+    vertical-align: middle;
+    background-size:cover;
+    margin:2px;
+
+}
+.Hero{
+    background-image: url(./../../../assests/banner2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:30rem;
+}

@@ -1,0 +1,9 @@
+
+.HomeLatest{
+  margin-top:100px; 
+}
+@media screen and (max-width:  768px) {
+  .HomeLatest{
+      margin-top:300px;
+  }
+  } 
